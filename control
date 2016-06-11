@@ -1,0 +1,10 @@
+Package: com.wizages.notificationview
+Name: NotificationView
+Depends: mobilesubstrate, com.cpdigitaldarkroom.gazelle
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An Awesome Custom Gazelle View
+Maintainer: wizages
+Author: wizages
+Section: Addons (Gazelle)
+Tag: purpose::extension, compatible::ios8, compatible::ios9
